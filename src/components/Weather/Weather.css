@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Rationale:regular);
+.WeatherBlock{
+    display: inherit;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.WeatherIcon{
+    width: 128px;
+    height: 128px;
+}
+.WeatherStatus{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;   
+    color: rgb(100, 93, 93);
+    margin: 15px;
+    
+    
+}
+.Sunset{
+    display: flex;
+    float:left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;   
+    color: #fff;
+    margin-top: 100px;
+}
+
+.WeatherTemp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Rationale';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;    
+    color: rgb(36, 36, 36);
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+
+.RiCelsiusLine{
+    width: 35px;
+    height: 35px;
+    margin-bottom: 40px;
+}
+
+.Loading{
+    color: #fff;
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Rationale', sans-serif;
+}

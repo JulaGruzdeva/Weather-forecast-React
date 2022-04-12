@@ -1,0 +1,19 @@
+body {
+  /* background: gray; */
+  background: rgba(88, 94, 173, 0.32);
+  /* background: rgba(59, 170, 205, 0.26); cloudy*/
+  /* background: rgba(84, 128, 141, 0.26); thundersrorm*/
+  /* background: rgba(123, 176, 255, 0.26); rainy */
+  /* background: rgba(62, 181, 249, 0.51); snowy */
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
